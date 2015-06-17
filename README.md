@@ -47,5 +47,5 @@ TODO:
 
  - [x] Setup Django Project
  - [x] Setup Nginx
- - [ ] Ember App
+ - [ ] Ember App [PR #2](https://github.com/sherzberg/python-fullstack-docker/pull/2)
  - [ ] Setup Postgres
