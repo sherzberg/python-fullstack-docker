@@ -1,4 +1,4 @@
-python-fullstack-python
+python-fullstack-docker
 =======================
 
 This repo is an example of a "full stack" python application. Things this involves:
