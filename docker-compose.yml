@@ -1,5 +1,8 @@
 
-python:
-  build: python
-  links:
+backend:
+  build: backend
+  ports:
+    - "8000:8000"
+  volumes:
+    - backend:/usr/src/app
 
